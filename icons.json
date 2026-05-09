@@ -1,0 +1,10 @@
+{
+  "name": "My Icons",
+  "description": "fancha0 自用图标库",
+  "icons": [
+    {
+      "name": "Ai",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/Ai.png"
+    }
+  ]
+}
