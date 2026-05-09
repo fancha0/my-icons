@@ -5,6 +5,34 @@
     {
       "name": "Ai",
       "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/Ai.png"
+    },
+    {
+      "name": "CN",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/CN.png"
+    },
+    {
+      "name": "HK",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/HK.png"
+    },
+    {
+      "name": "JP",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/JP.png"
+    },
+    {
+      "name": "KR",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/KR.png"
+    },
+    {
+      "name": "SG",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/SG.png"
+    },
+    {
+      "name": "TW",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/TW.png"
+    },
+    {
+      "name": "US",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/US.png"
     }
   ]
 }
