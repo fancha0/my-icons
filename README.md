@@ -57,6 +57,7 @@ https://raw.githubusercontent.com/fancha0/my-icons/main/ai/chatgpt.png
 
 ## 说明
 
-- 图标命名优先使用品牌名（如 `chatgpt.png`、`claude.png`、`tiktok.png`）；同一品牌有多个配色/底图版本时追加后缀区分，如 `chatgpt-navy.png`、`chatgpt-blue.png`。
-- 尚未重命名的目录仍为编号命名（如 `liumeiti1.png`），查找具体图标请按目录浏览图片。
+- 图标命名统一按内容：品牌类用品牌名（`chatgpt.png`、`tiktok.png`、`netflix.png`），图形类用外观描述（`rocket.png`、`shield-check.png`），国旗用 ISO 3166-1 代码（`cn.png`、`us.png`）。
+- 同一对象有多个版本时追加序号（`netflix-2.png`、`cn-3.png`）。
+- 暂时无法确认归属的保留 `unknown-XXX.png`（XXX 为原编号）。
 - 仅供个人使用，各图标版权归原品牌所有。
