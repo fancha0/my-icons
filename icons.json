@@ -3,84 +3,84 @@
   "description": "fancha0 自用图标库 - 支持 Karing / SFM / Mihomo / Surge 等工具",
   "icons": [
     {
-      "name": "NAS1.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/NAS/NAS1.png"
+      "name": "nas-server.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/NAS/nas-server.png"
     },
     {
-      "name": "NAS2.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/NAS/NAS2.png"
+      "name": "nas-rack.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/NAS/nas-rack.png"
     },
     {
-      "name": "NAS3.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/NAS/NAS3.png"
+      "name": "nas-tower.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/NAS/nas-tower.png"
     },
     {
-      "name": "ai1.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/ai1.png"
+      "name": "ai-generic.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/ai-generic.png"
     },
     {
-      "name": "ai10.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/ai10.png"
+      "name": "chatgpt-teal.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/chatgpt-teal.png"
     },
     {
-      "name": "ai11.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/ai11.png"
+      "name": "chatgpt-black-2.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/chatgpt-black-2.png"
     },
     {
-      "name": "ai12.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/ai12.png"
+      "name": "chatgpt-mint.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/chatgpt-mint.png"
     },
     {
-      "name": "ai13.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/ai13.png"
+      "name": "claude.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/claude.png"
     },
     {
-      "name": "ai14.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/ai14.png"
+      "name": "anthropic.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/anthropic.png"
     },
     {
-      "name": "ai15.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/ai15.png"
+      "name": "deepseek.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/deepseek.png"
     },
     {
-      "name": "ai16.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/ai16.png"
+      "name": "gemini.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/gemini.png"
     },
     {
-      "name": "ai17.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/ai17.png"
+      "name": "grok.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/grok.png"
     },
     {
-      "name": "ai2.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/ai2.png"
+      "name": "ai-robot.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/ai-robot.png"
     },
     {
-      "name": "ai3.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/ai3.png"
+      "name": "chatgpt.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/chatgpt.png"
     },
     {
-      "name": "ai4.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/ai4.png"
+      "name": "chatgpt-navy.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/chatgpt-navy.png"
     },
     {
-      "name": "ai5.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/ai5.png"
+      "name": "chatgpt-green-tile.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/chatgpt-green-tile.png"
     },
     {
-      "name": "ai6.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/ai6.png"
+      "name": "chatgpt-green.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/chatgpt-green.png"
     },
     {
-      "name": "ai7.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/ai7.png"
+      "name": "chatgpt-blue.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/chatgpt-blue.png"
     },
     {
-      "name": "ai8.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/ai8.png"
+      "name": "chatgpt-black.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/chatgpt-black.png"
     },
     {
-      "name": "ai9.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/ai9.png"
+      "name": "chatgpt-sage.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/ai/chatgpt-sage.png"
     },
     {
       "name": "dibiao1.png",
@@ -8479,36 +8479,36 @@
       "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/xinwen/xinwen9.png"
     },
     {
-      "name": "yinyue1.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/yinyue/yinyue1.png"
+      "name": "netease-music.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/yinyue/netease-music.png"
     },
     {
-      "name": "yinyue2.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/yinyue/yinyue2.png"
+      "name": "netease-music-lock.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/yinyue/netease-music-lock.png"
     },
     {
-      "name": "yinyue3.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/yinyue/yinyue3.png"
+      "name": "listen-music.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/yinyue/listen-music.png"
     },
     {
-      "name": "youjian1.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/youjian/youjian1.png"
+      "name": "email-3d.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/youjian/email-3d.png"
     },
     {
-      "name": "youjian2.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/youjian/youjian2.png"
+      "name": "email-black.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/youjian/email-black.png"
     },
     {
-      "name": "youjian3.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/youjian/youjian3.png"
+      "name": "email-outline.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/youjian/email-outline.png"
     },
     {
-      "name": "youjian4.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/youjian/youjian4.png"
+      "name": "email-document.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/youjian/email-document.png"
     },
     {
-      "name": "youjian5.png",
-      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/youjian/youjian5.png"
+      "name": "email-blue.png",
+      "url": "https://raw.githubusercontent.com/fancha0/my-icons/main/youjian/email-blue.png"
     },
     {
       "name": "youxi1.png",

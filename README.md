@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/fancha0/my-icons/main/<目录>/<文件名>
 例如 ChatGPT 图标：
 
 ```
-https://raw.githubusercontent.com/fancha0/my-icons/main/ai/ai11.png
+https://raw.githubusercontent.com/fancha0/my-icons/main/ai/chatgpt.png
 ```
 
 ## 索引文件
@@ -50,12 +50,13 @@ https://raw.githubusercontent.com/fancha0/my-icons/main/ai/ai11.png
 {
   "name": "fancha0 图标库",
   "icons": [
-    { "name": "ai1.png", "url": "https://raw.githubusercontent.com/..." }
+    { "name": "chatgpt.png", "url": "https://raw.githubusercontent.com/..." }
   ]
 }
 ```
 
 ## 说明
 
-- 图标文件名均为编号命名（如 `liumeiti1.png`），查找具体图标请按目录浏览图片。
+- 图标命名优先使用品牌名（如 `chatgpt.png`、`claude.png`、`tiktok.png`）；同一品牌有多个配色/底图版本时追加后缀区分，如 `chatgpt-navy.png`、`chatgpt-blue.png`。
+- 尚未重命名的目录仍为编号命名（如 `liumeiti1.png`），查找具体图标请按目录浏览图片。
 - 仅供个人使用，各图标版权归原品牌所有。
